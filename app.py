@@ -6,7 +6,7 @@ def make_bar(crowd, max_crowd):
     if max_crowd == 0:
         return ""
     length = int((crowd / max_crowd) * 20)
-    return "█" * length
+    return "█ " * length
 
 
 def format_final_result(sorted_stops):
