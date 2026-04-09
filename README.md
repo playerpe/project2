@@ -74,6 +74,7 @@ Tested if number is 0
 Tested invalid input
 
 ## Hugging Face Link
+https://huggingface.co/spaces/Playerpe/Project2 
 
 ## Author & AI Acknowledgment
 Got inspiration from https://huggingface.co/spaces/RuslanKain/sorting-searching-recognized-gestures this website
